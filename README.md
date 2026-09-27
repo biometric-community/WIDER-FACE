@@ -23,7 +23,7 @@
 
         - **Task**: face detection
         - **Access**: **public**
-        - **This mirror**: documentation + download helpers only (no bulk payload in git)
+        - **Local payload**: train/val extracted on disk when downloaded via `download_wider_face.sh` (gitignored zips)
         - **Notes**: Images + annotations are distributed via Google Drive on the project page (multi-GB). This mirror ships docs/helpers only.
 
         ## Table of contents
